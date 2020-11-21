@@ -44,12 +44,6 @@ function Row({ title, fetchUrl, isLargeRow }) {
                     
                    isLargeRow ?  movie.poster_path : movie.backdrop_path}`} alt={movie.name}></img>
                 )}
-
-<div className="footer">
-Website Designed By Sainath K
-</div>
-                </div>
-                
               
 
         </div>
