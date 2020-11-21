@@ -21,7 +21,7 @@ function App() {
     <Row title='Romance Movies' fetchUrl={requests.fetchRomanceMovies} />
     <Row title='Documentaries' fetchUrl={requests.fetchDocumentaries} />
     <div className="footer">
-    <p>Website Designed By Sainath K<p>
+    <p>Website Designed By Sainath K <p>
     </div>
     </div>
   );
